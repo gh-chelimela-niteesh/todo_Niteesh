@@ -1,4 +1,4 @@
-# 📝 To-Do List Manager
+# 📝 Task Manager
 
 ## 📌 Project Description
 
